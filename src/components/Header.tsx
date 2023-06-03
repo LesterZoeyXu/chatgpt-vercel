@@ -73,7 +73,7 @@ export default function Header() {
                   href=""
                 >
                   <img
-                    alt="GitHub forks badge"
+                    alt=""
                     src=""
                   />
                 </a>
@@ -82,7 +82,7 @@ export default function Header() {
                   href=""
                 >
                   <img
-                    alt="GitHub forks badge"
+                    alt=""
                     src=""
                   />
                 </a>
@@ -94,7 +94,7 @@ export default function Header() {
             </span>
           </Show>
 
-
+          
         </div>
         <ThemeToggle />
       </header>
