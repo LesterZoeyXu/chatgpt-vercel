@@ -94,7 +94,7 @@ export default function Header() {
             </span>
           </Show>
 
-          
+
         </div>
         <ThemeToggle />
       </header>
