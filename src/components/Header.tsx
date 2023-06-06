@@ -74,7 +74,7 @@ export default function Header() {
                 >
                   <img
                     alt=""
-                    src="weixin.png"
+                    src=""
                   />
                 </a>
                 <a
@@ -83,7 +83,7 @@ export default function Header() {
                 >
                   <img
                     alt=""
-                    src="weixin.png"
+                    src=""
                   />
                 </a>
               </>
