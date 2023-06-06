@@ -74,7 +74,7 @@ export default function Header() {
                 >
                   <img
                     alt=""
-                    src="assets/weixin.png"
+                    src="weixin.png"
                   />
                 </a>
                 <a
