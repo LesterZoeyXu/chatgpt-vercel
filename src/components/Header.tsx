@@ -65,7 +65,7 @@ export default function Header() {
                 </span>
 
                 <span class="ml-1 font-extrabold text-slate-7 dark:text-slate">
-                  AI助手
+                  AI助理
                 </span>
 
                 <a
@@ -74,7 +74,7 @@ export default function Header() {
                 >
                   <img
                     alt=""
-                    src=""
+                    src="assets/weixin.png"
                   />
                 </a>
                 <a
