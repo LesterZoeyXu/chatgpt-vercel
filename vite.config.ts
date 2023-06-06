@@ -56,8 +56,9 @@ export default defineConfig({
       scope: "/",
       includeAssets: ["favicon.svg", "apple-touch-icon.png"],
       registerType: "autoUpdate",
+      //  修改图标，网页标题
       manifest: {
-        name: "ChatGPT",
+        name: "您的AI助理",
         lang: "zh-cn",
         short_name: "ChatGPT",
         background_color: "#f6f8fa",
