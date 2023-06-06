@@ -83,7 +83,7 @@ export default function Header() {
                 >
                   <img
                     alt=""
-                    src=""
+                    src="weixin.png"
                   />
                 </a>
               </>
